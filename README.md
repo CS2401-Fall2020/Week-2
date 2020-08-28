@@ -68,3 +68,17 @@ You will need to create 5 unit tests for each of the methods `gridOfMultiples` a
 (Note: while you're not required to produce unit tests for `printGrid`, you should test it throughly.)
 These tests should be accompanied by pre-amble comments that describe what the test is confirming and why it is needed. 
 The tests should be distinct from the examples provided. 
+
+## Grading
+100 points total
+
+### `searchAndPrint.java`
+* 20 points for `gridOfMultiples`
+* 10 points for `printGrid`
+* 30 points for `searchForMutliples`
+
+### `tester.java`
+* 40 points 
+  * 4 points for each of the 10 unit tests
+    * 2 point for the test implementation
+    * 2 points for the justification
